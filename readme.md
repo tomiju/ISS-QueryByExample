@@ -1,5 +1,5 @@
 # Projekt ISS (2019)
-
+### Hodnocení: 12/12
 ## Název: Query by example
 
 ### Eng: Simple audio/speech pattern finder in Python - it tries to find given pattern (query) in set of sentences.
